@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="hermes-common-2.3.1.RELEASE-sources">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-common/2.3.1.RELEASE/hermes-common-2.3.1.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-common/2.3.1.RELEASE/hermes-common-2.3.1.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,61 @@
+<component name="libraryTable">
+  <library name="hermes-api">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-api" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-api/2.0.5.RELEASE" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-api/2.3.0.RELEASE" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-api/2.3.1.RELEASE" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-bom" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-cluster" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-common" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-compatible" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-compatible-api" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-compatible-parent" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-config" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-config-api" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-config-spring" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-configcenter" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-configcenter-api" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-configcenter-apollo" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-discovery" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-discovery-api" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-discovery-consul" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-distribution" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-filter" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-filter-api" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-filter-auth" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-filter-circuitbreaker" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-filter-degrade" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-filter-log" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-filter-ratelimit" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-filter-timeout" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-filter-validation" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-metadata" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-metadata-api" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-metrics" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-metrics-api" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-metrics-monitor" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-parent" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-protocol" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-protocol-api" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-protocol-grpc" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-protocol-jsonrpc" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-remoting" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-remoting-api" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-remoting-grpc" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-serialization" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-serialization-api" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-serialization-jackson" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-shade" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-spec" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-spec-api" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-spring-boot" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-spring-boot-actuator" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-spring-boot-autoconfigure" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-spring-boot-starter" />
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/javassist-shaded" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lalaframework">
+    <CLASSES>
+      <root url="file://$MAVEN_REPOSITORY$/cn/lalaframework" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$MAVEN_REPOSITORY$/cn/lalaframework" />
+    </SOURCES>
+  </library>
+</component>

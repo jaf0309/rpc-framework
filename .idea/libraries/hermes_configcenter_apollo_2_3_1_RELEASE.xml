@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hermes-configcenter-apollo-2.3.1.RELEASE">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-configcenter-apollo/2.3.1.RELEASE/hermes-configcenter-apollo-2.3.1.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

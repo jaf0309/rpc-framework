@@ -4,10 +4,10 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/rpc-annotion/pom.xml" />
-        <option value="$PROJECT_DIR$/rpc-core/pom.xml" />
         <option value="$PROJECT_DIR$/rpc-annotion/src/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/rpc-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/rpc-hll/pom.xml" />
+        <option value="$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-bom/2.3.1.RELEASE/hermes-bom-2.3.1.RELEASE.pom" />
       </list>
     </option>
     <option name="ignoredFiles">

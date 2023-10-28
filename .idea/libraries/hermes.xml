@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="hermes">
+    <CLASSES>
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes" />
+    </SOURCES>
+  </library>
+</component>

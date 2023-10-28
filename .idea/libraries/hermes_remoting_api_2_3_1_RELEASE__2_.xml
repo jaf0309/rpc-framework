@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="hermes-remoting-api-2.3.1.RELEASE (2)">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-remoting-api/2.3.1.RELEASE/hermes-remoting-api-2.3.1.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/huolala/arch/hermes/hermes-remoting-api/2.3.1.RELEASE/hermes-remoting-api-2.3.1.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
