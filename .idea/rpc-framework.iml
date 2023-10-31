@@ -49,5 +49,33 @@
     <orderEntry type="library" name="hermes-spring-boot-starter-2.3.1.RELEASE" level="project" />
     <orderEntry type="library" name="javassist-shaded-3.23.2-GA" level="project" />
     <orderEntry type="library" name="hermes-all-2.3.1.RELEASE" level="project" />
+    <orderEntry type="library" name="lala-jaf-monitor-agent-2.3.1.RELEASE" level="project" />
+    <orderEntry type="library" name="lala-cache-core-2.3.1.RELEASE" level="project" />
+    <orderEntry type="library" name="lala-cache-ehcache-2.3.1.RELEASE" level="project" />
+    <orderEntry type="library" name="lala-cache-springredis-2.3.1.RELEASE" level="project" />
+    <orderEntry type="library" name="lala-commons-2.3.1.RELEASE" level="project" />
+    <orderEntry type="library" name="lala-config-apollo-2.3.1.RELEASE" level="project" />
+    <orderEntry type="library" name="lala-config-core-2.3.1.RELEASE (2)" level="project" />
+    <orderEntry type="library" name="lala-context-aware-2.3.1.RELEASE" level="project" />
+    <orderEntry type="library" name="lala-context-core-2.3.1.RELEASE" level="project" />
+    <orderEntry type="library" name="lala-data-elasticsearch-2.3.1.RELEASE" level="project" />
+    <orderEntry type="library" name="lala-dynamic-datasource-core-1.0.17.RELEASE" level="project" />
+    <orderEntry type="library" name="lala-dynamic-datasource-shardingjdbc-1.0.17.RELEASE" level="project" />
+    <orderEntry type="library" name="lala-dynamic-tp-adapter-2.3.1.RELEASE" level="project" />
+    <orderEntry type="library" name="lala-dynamic-tp-common-2.3.1.RELEASE" level="project" />
+    <orderEntry type="library" name="lala-dynamic-tp-core-2.3.1.RELEASE" level="project" />
+    <orderEntry type="library" name="lala-dynamic-tp-logging-2.3.1.RELEASE" level="project" />
+    <orderEntry type="library" name="lala-easyopen-2.3.1.RELEASE" level="project" />
+    <orderEntry type="library" name="lala-governance-circuitbreaker-1.3.4.RELEASE" level="project" />
+    <orderEntry type="library" name="lala-governance-core-2.3.1.RELEASE" level="project" />
+    <orderEntry type="library" name="lala-governance-degrader-1.3.4.RELEASE" level="project" />
+    <orderEntry type="library" name="lala-governance-ratelimit-2.3.1.RELEASE" level="project" />
+    <orderEntry type="library" name="lala-governance-router-1.3.4.RELEASE" level="project" />
+    <orderEntry type="library" name="lala-jms-core-2.3.1.RELEASE" level="project" />
+    <orderEntry type="library" name="lala-jms-rabbitmq-2.3.1.RELEASE" level="project" />
+    <orderEntry type="library" name="lala-jms-springkafka-2.3.1.RELEASE" level="project" />
+    <orderEntry type="library" name="lala-soa-annotation-2.3.1.RELEASE" level="project" />
+    <orderEntry type="library" name="shade-byte-buddy-1.0.0.RELEASE" level="project" />
+    <orderEntry type="library" name="netty-dependency-1.0" level="project" />
   </component>
 </module>
