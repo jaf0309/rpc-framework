@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lala-dynamic-datasource-shardingjdbc-1.0.17.RELEASE">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/lalaframework/lala-dynamic-datasource-shardingjdbc/1.0.17.RELEASE/lala-dynamic-datasource-shardingjdbc-1.0.17.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

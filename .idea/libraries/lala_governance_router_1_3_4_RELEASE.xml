@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lala-governance-router-1.3.4.RELEASE">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/lalaframework/lala-governance-router/1.3.4.RELEASE/lala-governance-router-1.3.4.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/lalaframework/lala-governance-router/1.3.4.RELEASE/lala-governance-router-1.3.4.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

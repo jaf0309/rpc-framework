@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="shade-byte-buddy-1.0.0.RELEASE">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/lalaframework/monitor/shade-byte-buddy/1.0.0.RELEASE/shade-byte-buddy-1.0.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

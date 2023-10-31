@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="netty-dependency-1.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/lalaframework/netty-dependency/1.0/netty-dependency-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

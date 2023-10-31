@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lala-easyopen-2.3.1.RELEASE">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/lalaframework/lala-easyopen/2.3.1.RELEASE/lala-easyopen-2.3.1.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/lalaframework/lala-easyopen/2.3.1.RELEASE/lala-easyopen-2.3.1.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
